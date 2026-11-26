@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "City Central Hospital",
+        "category": "Hospital",
+        "area": "Hyderabad",
+        "address": "Main Road, Hyderabad",
+        "phone": "040-24567890",
+        "status": "Open"
+    },
+    {
+        "id": 2,
+        "name": "Green Leaf Restaurant",
+        "category": "Restaurant",
+        "area": "Medchal",
+        "address": "Market Street, Medchal",
+        "phone": "9876500001",
+        "status": "Open"
+    },
+    {
+        "id": 3,
+        "name": "Knowledge High School",
+        "category": "School",
+        "area": "Kompally",
+        "address": "Lake View Road, Kompally",
+        "phone": "9876500002",
+        "status": "Open"
+    },
+    {
+        "id": 4,
+        "name": "Metro City College",
+        "category": "College",
+        "area": "Miyapur",
+        "address": "College Road, Miyapur",
+        "phone": "9876500003",
+        "status": "Open"
+    },
+    {
+        "id": 5,
+        "name": "Sunrise Hotel",
+        "category": "Hotel",
+        "area": "Secunderabad",
+        "address": "Station Road, Secunderabad",
+        "phone": "9876500004",
+        "status": "Open"
+    },
+    {
+        "id": 6,
+        "name": "People's Park",
+        "category": "Park",
+        "area": "Alwal",
+        "address": "Green Avenue, Alwal",
+        "phone": "Not available",
+        "status": "Open"
+    },
+    {
+        "id": 7,
+        "name": "City Mall",
+        "category": "Shopping",
+        "area": "Kukatpally",
+        "address": "Forum Road, Kukatpally",
+        "phone": "9876500005",
+        "status": "Open"
+    },
+    {
+        "id": 8,
+        "name": "RTC Bus Station",
+        "category": "Transport",
+        "area": "Uppal",
+        "address": "Bus Station Road, Uppal",
+        "phone": "040-23456789",
+        "status": "Open"
+    },
+    {
+        "id": 9,
+        "name": "State Bank Branch",
+        "category": "Bank",
+        "area": "Bowenpally",
+        "address": "Market Road, Bowenpally",
+        "phone": "040-22334455",
+        "status": "Open"
+    },
+    {
+        "id": 10,
+        "name": "Family Care Clinic",
+        "category": "Hospital",
+        "area": "Bachupally",
+        "address": "Doctors Lane, Bachupally",
+        "phone": "9876500006",
+        "status": "Open"
+    }
+]

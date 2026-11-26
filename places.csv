@@ -1,0 +1,11 @@
+id,name,category,area,address,phone,status
+1,City Central Hospital,Hospital,Hyderabad,"Main Road, Hyderabad",040-24567890,Open
+2,Green Leaf Restaurant,Restaurant,Medchal,"Market Street, Medchal",9876500001,Open
+3,Knowledge High School,School,Kompally,"Lake View Road, Kompally",9876500002,Open
+4,Metro City College,College,Miyapur,"College Road, Miyapur",9876500003,Open
+5,Sunrise Hotel,Hotel,Secunderabad,"Station Road, Secunderabad",9876500004,Open
+6,People's Park,Park,Alwal,"Green Avenue, Alwal",Not available,Open
+7,City Mall,Shopping,Kukatpally,"Forum Road, Kukatpally",9876500005,Open
+8,RTC Bus Station,Transport,Uppal,"Bus Station Road, Uppal",040-23456789,Open
+9,State Bank Branch,Bank,Bowenpally,"Market Road, Bowenpally",040-22334455,Open
+10,Family Care Clinic,Hospital,Bachupally,"Doctors Lane, Bachupally",9876500006,Open
